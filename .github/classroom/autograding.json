@@ -3,7 +3,7 @@
     {
       "name": "Say Hello",
       "setup": "javac *.java",
-      "run": "java cp . hello",
+      "run": "java -cp . hello",
       "input": "Hirushi",
       "output": "Hello Hirushi",
       "comparison": "included",
